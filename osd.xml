@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>annemarielazarti</ShortName>
+	<Description>Search Anne-Marie Lazartigues - Psychiatre &#38; Sexologue - Santé, sexualité, vie privée et alimentation : vos problèmes peuvent vraiment avoir des solutions.</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://annemarielazartigues.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://annemarielazartigues.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://annemarielazartigues.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://annemarielazartigues.wordpress.com/osd.xml" />
+	<LongName>Anne-Marie Lazartigues - Psychiatre &#38; Sexologue</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://secure.gravatar.com/blavatar/4ad49512ec5fd50c0c94b400d37f6e4e?s=16&#038;d=https%3A%2F%2Fannemarielazartigues.wordpress.com%2Ffavicon.ico</Image>
+	<Image height="64" width="64" type="image/jpeg">https://secure.gravatar.com/blavatar/4ad49512ec5fd50c0c94b400d37f6e4e?s=64&#038;d=https%3A%2F%2Fs-ssl.wordpress.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>jeux addiction-jeu addiction-aux-jeux gamer probleme-jeu accro-aux-jeux accro-au-jeu jeu-dargent jeux-dargent vaginisme</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>fr-FR</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://annemarielazartigues.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>
